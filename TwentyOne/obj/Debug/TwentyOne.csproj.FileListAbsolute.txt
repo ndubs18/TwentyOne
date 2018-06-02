@@ -1,0 +1,40 @@
+C:\Users\jesse\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\jesse\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\jesse\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\jesse\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojResolveAssemblyReference.cache
+C:\Users\jesse\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\jesse\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\jesse\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\jesse\source\repos\TwentyOne - Through Class Methods\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\jesse\source\repos\TwentyOne - Through Class Methods\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\jesse\source\repos\TwentyOne - Through Class Methods\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\jesse\source\repos\TwentyOne - Through Class Methods\TwentyOne\obj\Debug\TwentyOne.csprojResolveAssemblyReference.cache
+C:\Users\jesse\source\repos\TwentyOne - Through Class Methods\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\jesse\source\repos\TwentyOne - Through Class Methods\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\jesse\source\repos\TwentyOne - Through Class Methods\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\jesse\source\repos\TwentyOne - Through Inheritance1\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\jesse\source\repos\TwentyOne - Through Inheritance1\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\jesse\source\repos\TwentyOne - Through Inheritance1\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\jesse\source\repos\TwentyOne - Through Inheritance1\TwentyOne\obj\Debug\TwentyOne.csprojResolveAssemblyReference.cache
+C:\Users\jesse\source\repos\TwentyOne - Through Inheritance1\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\jesse\source\repos\TwentyOne - Through Inheritance1\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\jesse\source\repos\TwentyOne - Through Inheritance1\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\jesse\source\repos\TwentyOne - Through Putting It All Together\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\jesse\source\repos\TwentyOne - Through Putting It All Together\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\jesse\source\repos\TwentyOne - Through Putting It All Together\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\jesse\source\repos\TwentyOne - Through Putting It All Together\TwentyOne\obj\Debug\TwentyOne.csprojResolveAssemblyReference.cache
+C:\Users\jesse\source\repos\TwentyOne - Through Putting It All Together\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\jesse\source\repos\TwentyOne - Through Putting It All Together\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\jesse\source\repos\TwentyOne - Through Putting It All Together\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\jesse\source\repos\TwentyOne - Through Putting It All Together\TwentyOne\bin\Debug\Casino.dll
+C:\Users\jesse\source\repos\TwentyOne - Through Putting It All Together\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\nickw\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\nickw\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\nickw\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\nickw\source\repos\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\nickw\source\repos\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\nickw\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojResolveAssemblyReference.cache
+C:\Users\nickw\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\nickw\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+C:\Users\nickw\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\nickw\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb

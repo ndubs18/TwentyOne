@@ -1,0 +1,25 @@
+﻿@using Casino
+@model Player
+
+<h1 class="text-center pb-4 pt-2">Welcome to the Grand Hotel and Casino</h1>
+
+<div class="row no-gutters my-auto">
+    <div class="col"></div>
+    <div class="col-md-6 col-lg-4">
+        <h6>Please fill out the form below to get started.</h6>
+        @using (Html.BeginForm("Play", "Home", FormMethod.Post))
+    {
+            @Html.ValidationSummary()
+        <div class="form-group">
+            @Html.TextBoxFor(x => x.Name, new { @class = "form-control", placeholder = "Name" })
+        </div>
+        <div class="form-group">
+            @Html.TextBoxFor(x => x.Balance, new { @class = "form-control", placeholder = "Beginning Balance" })
+        </div>
+        <div class="form-group">
+            <button type="submit" class="btn btn-block btn-primary">Start Game</button>
+        </div>
+}
+    </div>
+    <div class="col"></div>
+</div>

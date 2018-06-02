@@ -1,0 +1,25 @@
+﻿@model Casino.TwentyOne.TwentyOneGame
+
+<h1 class="text-center pb-4 pt-2">Grand Hotel and Casino</h1>
+
+<div class="row no-gutters my-auto">
+    <div class="col"></div>
+    <div class="col-md-6 col-lg-4">
+        @using (Html.BeginForm("PlaceBet", "Home", FormMethod.Post))
+        {
+            @Html.ValidationSummary()
+            <div class="form-group">
+                @Html.TextBox("Bet", null, new { @class = "form-control", placeholder = "Bet Amount" })
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-block btn-primary">Place Bet</button>
+            </div>
+        }
+    </div>
+    <div class="col"></div>
+</div>
+
+@foreach (var Card in Model.Dealer.Deck.Cards)
+{
+    <p>@Card.Face @Card.Suit</p>
+}
